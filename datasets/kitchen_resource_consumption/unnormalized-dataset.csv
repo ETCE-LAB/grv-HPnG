@@ -1,0 +1,35 @@
+Item_ID,Unit,Unit Prices,DisplayName,"Cost per unit
+01.10.2024",A. 10 cats,AA: 15cats,B. 20 cats,BB. 25cats,C. 30 cats
+Raisins,kg,18€,"Raisins Secs Sultanine Bio (2,5kg)",18€,"1 x 2,5kg","1x2,5kg","2 x 2,5kg","2 x 2,5kg","3x2,5kg"
+Organic Large Oat Flakes,kg,6.60eur,Gros Flocons D'Avoine Bio,6.60eur,6kg,12kg,18kg,24g,30kg
+Rice,kg,3.50€,Riz Basmati Complet Bio En Vrac (1kg),3.50€,"5,6kg","7,5kg","11,2kg",14kg,"16,8kg"
+Bulgur,kg,3.15€,Boulgour Bio En Vrac (1kg),3.15€,"5,6kg","7,5kg","11,2kg",14kg,"16,8kg"
+Couscous,kg,2.30€,Couscous Complet Bio En Vrac,2.30€,"4,8kg","6,7kg","9,6kg",12kg,"14,4kg"
+Spaghetti,kg,11.08€,Spaghettis Demi-Complets Bio (5kg),11.08€,"6,4kg",9kg,"12,8kg",16kg,"19,2kg"
+Fusilli,kg,"12,75€",Fusilli Semi Complètes Bio (5kg),"12,75€","6,4kg",9kg,"12,8kg",16kg,"19,2kg"
+Millet,kg,3.50€,Graines de Millet Bio En Vrac (1kg),3.50€,"4,8kg","6,7kg","9,6kg",12kg,"14,4kg"
+Polenta,kg,3.55€,Polenta (Semoule de Maïs) Bio (1kg),3.55€,"4,8kg","6,7kg","9,6kg",12kg,"14,4kg"
+Sarassin,kg,4.30eur,Sarassin,4.30eur,"4,8kg","6,7kg","9,6kg",12kg,"14,4kg"
+Chickpeas,kg,17.90€,Pois chiches Bio (5kg),17.90€,"2,8kg",4kg,"6,8kg","7,6kg","8,4kg"
+Green lentils,kg,"4.59 (1kg)-12,99eur(3kg)",Lentilles Vertes Bio En Vrac,"4.59 (1kg)-12,99eur(3kg)","2,8kg",4kg,"6,8kg","7,6kg","8,4kg"
+Coral lentils,kg,9.90€,Lentilles Corail Bio (3kg),9.90€,"2,8kg",4kg,"6,8kg","7,6kg","8,4kg"
+Green split peas,kg,"3.99(1kG)-18,99(5kg)",Pois Cassés Bio (1kg),"3.99(1kG)-18,99(5kg)","2,8kg",4kg,"6,8kg","7,6kg","8,4kg"
+White beans,kg,5.09€,Haricots Blancs Bio En Vrac (1kg),5.09€,"2,8kg",4kg,"6,8kg","7,6kg","8,4kg"
+Soy mince,kg,2.99€,Protéines de Soja Gros Morceaux Bio En Vrac,2.99€,"1,4kg",2kg,"3,4kg","3,8kg","4,2kg"
+Sunflower seeds,kg,1.99€,Graines de Tournesol Bio En Vrac (500gr),1.99€,5 packs,8packs,10 packs,12packs,15packs
+Chia seeds,kg,3.40€,Graines De Chia Bio En Vrac (500gr),3.40€,2 packs,3packs,4 packs,5packs,6packs
+Flax seeds,kg,2.39€,Graines de Lin Brun Bio En Vrac (500gr),2.39€,3 packs,5packs,6packs ,8packs,9packs
+Sesam,kg,2.97€,Graines de Sésame Bio En Vrac (500gr),2.97€,4 packs,5packs,6packs ,8packs,9packs
+Sugar,kg,2.95eur,Sucre Roux Bio En Vrac,2.95eur,1kg,2kg,3kg,4kg,5kg
+Coffee,kg,6.99€,Café en Grains Corsé Afrique Bio et Equitable,6.99€,1kg,2kg,3kg,3kg,4kg
+Soy sauce,L,11.30€,Tamari Strong Bio (1L),11.30€,1L,1L,2L,2L,3L
+Vinaigre Balsamico,L,6.39€,"Vinaigre Balsamique de Modène IGP
+Bio (1L)",6.39€,1 Liter,1L,1L,2L,2L
+Apple_Cider_Vinegar,L,2.79€,Apple_Cider_Vinegar,2.79€,1 Liter,1L,2L,2L,3L
+Tomato_Puree,Jar,1.55€,"Passata Bio
+(1 Jar)",1.55€,8 Jars,13jars,16 jars,20jars,24jars
+Sunflower_Oil,L,"10,8eur",Sunflower_Oil,"10,8eur",6L,9L,12L,15L,18L
+Olive_Oil,L,"35,6eur",Olive_Oil,"35,6eur",3L,3L,3L,6L,6L
+Almonds,kg,"31,11eur",Almonds,"31,11eur","2,5kg","2,5kg",5kg,5kg,5kg
+Peanuts,kg,"18,53eur",Peanuts,"18,53eur","2,5kg","2,5kg",5kg,5kg,5kg
+Amazonian_Nuts,kg,"14,99eur",Amazonian_Nuts,"14,99eur",1kg,1kg,2kg,3kg,3kg

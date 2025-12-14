@@ -1,0 +1,156 @@
+Item_ID,No_of_Cats,Quantity_Consumed,Days
+Raisins,10,2.5,30
+Organic Large Oat Flakes,10,6,30
+Rice,10,5.6,30
+Bulgur,10,5.6,30
+Couscous,10,4.8,30
+Spaghetti,10,6.4,30
+Fusilli,10,6.4,30
+Millet,10,4.8,30
+Polenta,10,4.8,30
+Sarassin,10,4.8,30
+Chickpeas,10,2.8,30
+Green lentils,10,2.8,30
+Coral lentils,10,2.8,30
+Green split peas,10,2.8,30
+White beans,10,2.8,30
+Soy mince,10,1.4,30
+Sunflower seeds,10,2.5,30
+Chia seeds,10,1,30
+Flax seeds,10,1.5,30
+Sesam,10,1,30
+Sugar,10,1,30
+Coffee,10,1,30
+Soy sauce,10,1,30
+Vinaigre Balsamico,10,1,30
+Apple_Cider_Vinegar,10,1,30
+Tomato_Puree,10,5.44,30
+Sunflower_Oil,10,6,30
+Olive_Oil,10,3,30
+Almonds,10,2.5,30
+Peanuts,10,2.5,30
+Amazonian_Nuts,10,1,30
+Raisins,15,2.5,30
+Organic Large Oat Flakes,15,12,30
+Rice,15,7.5,30
+Bulgur,15,7.5,30
+Couscous,15,6.7,30
+Spaghetti,15,9,30
+Fusilli,15,9,30
+Millet,15,6.7,30
+Polenta,15,6.7,30
+Sarassin,15,6.7,30
+Chickpeas,15,4,30
+Green lentils,15,4,30
+Coral lentils,15,4,30
+Green split peas,15,4,30
+White beans,15,4,30
+Soy mince,15,2,30
+Sunflower seeds,15,4,30
+Chia seeds,15,1.5,30
+Flax seeds,15,2.5,30
+Sesam,15,2.5,30
+Sugar,15,2,30
+Coffee,15,2,30
+Soy sauce,15,1,30
+Vinaigre Balsamico,15,1,30
+Apple_Cider_Vinegar,15,1,30
+Tomato_Puree,15,8.84,30
+Sunflower_Oil,15,9,30
+Olive_Oil,15,3,30
+Almonds,15,2.5,30
+Peanuts,15,2.5,30
+Amazonian_Nuts,15,1,30
+Raisins,20,5,30
+Organic Large Oat Flakes,20,18,30
+Rice,20,11.2,30
+Bulgur,20,11.2,30
+Couscous,20,9.6,30
+Spaghetti,20,12.8,30
+Fusilli,20,12.8,30
+Millet,20,9.6,30
+Polenta,20,9.6,30
+Sarassin,20,9.6,30
+Chickpeas,20,6.8,30
+Green lentils,20,6.8,30
+Coral lentils,20,6.8,30
+Green split peas,20,6.8,30
+White beans,20,6.8,30
+Soy mince,20,3.4,30
+Sunflower seeds,20,5,30
+Chia seeds,20,2,30
+Flax seeds,20,3,30
+Sesam,20,3,30
+Sugar,20,3,30
+Coffee,20,3,30
+Soy sauce,20,2,30
+Vinaigre Balsamico,20,1,30
+Apple_Cider_Vinegar,20,2,30
+Tomato_Puree,20,10.88,30
+Sunflower_Oil,20,12,30
+Olive_Oil,20,3,30
+Almonds,20,5,30
+Peanuts,20,5,30
+Amazonian_Nuts,20,2,30
+Raisins,25,5,30
+Organic Large Oat Flakes,25,24,30
+Rice,25,14,30
+Bulgur,25,14,30
+Couscous,25,12,30
+Spaghetti,25,16,30
+Fusilli,25,16,30
+Millet,25,12,30
+Polenta,25,12,30
+Sarassin,25,12,30
+Chickpeas,25,7.6,30
+Green lentils,25,7.6,30
+Coral lentils,25,7.6,30
+Green split peas,25,7.6,30
+White beans,25,7.6,30
+Soy mince,25,3.8,30
+Sunflower seeds,25,6,30
+Chia seeds,25,2.5,30
+Flax seeds,25,4,30
+Sesam,25,4,30
+Sugar,25,4,30
+Coffee,25,3,30
+Soy sauce,25,2,30
+Vinaigre Balsamico,25,2,30
+Apple_Cider_Vinegar,25,2,30
+Tomato_Puree,25,13.6,30
+Sunflower_Oil,25,15,30
+Olive_Oil,25,6,30
+Almonds,25,5,30
+Peanuts,25,5,30
+Amazonian_Nuts,25,3,30
+Raisins,30,7.5,30
+Organic Large Oat Flakes,30,30,30
+Rice,30,16.8,30
+Bulgur,30,16.8,30
+Couscous,30,14.4,30
+Spaghetti,30,19.2,30
+Fusilli,30,14.4,30
+Millet,30,14.4,30
+Polenta,30,14.4,30
+Sarassin,30,14.4,30
+Chickpeas,30,8.4,30
+Green lentils,30,8.4,30
+Coral lentils,30,8.4,30
+Green split peas,30,8.4,30
+White beans,30,8.4,30
+Soy mince,30,4.2,30
+Sunflower seeds,30,7.5,30
+Chia seeds,30,3,30
+Flax seeds,30,4.5,30
+Sesam,30,4.5,30
+Sugar,30,5,30
+Coffee,30,4,30
+Soy sauce,30,3,30
+Vinaigre Balsamico,30,2,30
+Apple_Cider_Vinegar,30,3,30
+Tomato_Puree,30,16.32,30
+Sunflower_Oil,30,18,30
+Olive_Oil,30,6,30
+Almonds,30,5,30
+Peanuts,30,5,30
+Amazonian_Nuts,30,3,30
